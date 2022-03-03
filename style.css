@@ -1,0 +1,106 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+.nav a,i{
+    text-decoration: none;
+    color: white;
+}
+
+/* Intro */
+.intro h1{
+    font-size: 25px;
+    font-weight: 400;
+}
+.intro p{
+    font-size: 15px;
+    color: black;
+}
+.intro .t_c{
+    font-size: 15px;
+    color: rgb(133, 131, 131);
+}
+.intro a{
+    text-decoration: none;
+    font-size: 15px;
+    color:teal;
+}
+/*----------------------*/
+/* Body */
+.body_left{
+    width: 48%;
+    margin: auto;
+    background-color: rgb(228, 245, 250);
+    padding: 30px 10px;
+}
+.body_left a{
+    text-decoration: none;
+    color: rgb(35, 196, 236);
+}
+.body_left a:hover{
+    text-decoration: underline;
+}
+.body_right{
+    width: 48%;
+    padding-top: 70px;
+    background-color: rgb(238, 247, 228);
+    margin: auto;   
+}
+.body_right h3{
+    margin-top: 35px;
+    font-size: 13px;
+    color: gray;
+}
+
+/* Button */
+.button h2{
+    font-weight: 400;
+    border: 1px solid teal;
+    border-radius: 50px;
+    margin: auto;
+    width: 200px;
+    padding: 10px 5px;
+    font-size: 15px;
+}
+.button a{
+    text-decoration: none;
+    color: teal;
+}
+
+/* End */
+.End{
+    width:100%;
+    height: auto;
+    padding: 50px 0;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(47, 47, 70);
+}
+
+.End ul{
+    list-style: none;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.End li{
+    padding-bottom: 5px;
+    
+}
+.End a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* Footer */
+
+footer a,p{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    color: white;
+}
